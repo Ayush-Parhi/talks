@@ -1,0 +1,1 @@
+appCertificate = '8854b099be4045c89d5f01ae29c70d3c'
